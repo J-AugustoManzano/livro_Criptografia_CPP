@@ -1,2 +1,5 @@
-# livrocripto
-Arquivos fonte em C++ do livro sobre criptografia
+# Livro: Criptografia Aplicada para Programadores
+
+Este conteúdo faz parte dos programas exemplos codificados em C++ que demosntram o uso de alguns algoritmos clássicos de criptografia.
+
+O livro encontra-se a venda em: https://clubedeautores.com.br/livro/criptografia-aplicada-para-programadores
